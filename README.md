@@ -8,7 +8,7 @@
 
 ![home](https://chrjabs.github.io/Grape-Academic-Theme/assets/img/portfolio.png)
 
-Welcome to Grape Academic Theme!
+Bienvenido a Gael Urbina
 This theme is based on [Grape Theme](https://github.com/naye0ng/Grape-Theme) and modifies it to be more directly applicable as an academic portfolio page.
 It can still include a blog, but that is optional.
 
